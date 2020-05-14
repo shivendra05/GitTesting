@@ -15,6 +15,7 @@ public class HelloWrold {
 		HelloWrold.sum(1, 20);
 		System.out.println("Muliply--------------");
 		HelloWrold.mul(10, 20);
-		System.out.println("Hi This is for confilit------I am Team1");
+		
+		System.out.println("Hi This is for confilit------I am Team2");
 	}
 }
